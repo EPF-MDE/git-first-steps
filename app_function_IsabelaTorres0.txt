@@ -1,0 +1,8 @@
+new funnction >> app_function_IsabelaTorres0.txt
+git add
+git commit -m
+git push
+
+echo new funnction
+new function
+new funnction
